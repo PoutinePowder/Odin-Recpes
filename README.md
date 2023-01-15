@@ -1,3 +1,3 @@
 # odin-recipes
 
-"Hello Odin!" "Hello"
+There will be a webpage displaying recipes for certain dishes.
